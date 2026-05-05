@@ -790,6 +790,46 @@
       }
     },
     {
+      "name": "Murata",
+      "path": "Murata",
+      "dark": {
+        "mPrimary": "#db6d6d",
+        "mOnPrimary": "#1a1b1c",
+        "mSecondary": "#d1b394",
+        "mOnSecondary": "#1a1b1c",
+        "mTertiary": "#8faeb1",
+        "mOnTertiary": "#1a1b1c",
+        "mError": "#db6d6d",
+        "mOnError": "#1a1b1c",
+        "mSurface": "#1a1b1c",
+        "mOnSurface": "#cdc5bd",
+        "mSurfaceVariant": "#252627",
+        "mOnSurfaceVariant": "#a69d96",
+        "mOutline": "#5a5b5c",
+        "mShadow": "#000000",
+        "mHover": "#db6d6d",
+        "mOnHover": "#1a1b1c"
+      },
+      "light": {
+        "mPrimary": "#bf5a5a",
+        "mOnPrimary": "#fdf8f2",
+        "mSecondary": "#94765a",
+        "mOnSecondary": "#fdf8f2",
+        "mTertiary": "#5c8286",
+        "mOnTertiary": "#fdf8f2",
+        "mError": "#d95f5f",
+        "mOnError": "#fdf8f2",
+        "mSurface": "#fdf8f2",
+        "mOnSurface": "#1a1b1c",
+        "mSurfaceVariant": "#f2ebe4",
+        "mOnSurfaceVariant": "#545556",
+        "mOutline": "#969798",
+        "mShadow": "#cdc5bd",
+        "mHover": "#c96666",
+        "mOnHover": "#fdf8f2"
+      }
+    },
+    {
       "name": "NaySayer",
       "path": "NaySayer",
       "dark": {
