@@ -558,6 +558,46 @@
       }
     },
     {
+      "name": "Horizon",
+      "path": "Horizon",
+      "dark": {
+        "mPrimary": "#25B2BC",
+        "mOnPrimary": "#16161C",
+        "mSecondary": "#B877DB",
+        "mOnSecondary": "#16161C",
+        "mTertiary": "#FAB795",
+        "mOnTertiary": "#16161C",
+        "mError": "#E95678",
+        "mOnError": "#FDF0ED",
+        "mSurface": "#1A1C23",
+        "mOnSurface": "#FDF0ED",
+        "mSurfaceVariant": "#232530",
+        "mOnSurfaceVariant": "#6C6F93",
+        "mOutline": "#2E303E",
+        "mShadow": "#16161C",
+        "mHover": "#232530",
+        "mOnHover": "#FDF0ED"
+      },
+      "light": {
+        "mPrimary": "#1D8991",
+        "mOnPrimary": "#FDF0ED",
+        "mSecondary": "#8931B9",
+        "mOnSecondary": "#FDF0ED",
+        "mTertiary": "#F77D26",
+        "mOnTertiary": "#FDF0ED",
+        "mError": "#DA103F",
+        "mOnError": "#FDF0ED",
+        "mSurface": "#FADAD1",
+        "mOnSurface": "#16161C",
+        "mSurfaceVariant": "#F9CBBE",
+        "mOnSurfaceVariant": "#AF5427",
+        "mOutline": "#F9CEC3",
+        "mShadow": "#1A1C23",
+        "mHover": "#F9CEC3",
+        "mOnHover": "#16161C"
+      }
+    },
+    {
       "name": "Kanagawa Paper",
       "path": "Kanagawa Paper",
       "dark": {
