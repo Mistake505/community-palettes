@@ -1282,6 +1282,46 @@
       }
     },
     {
+      "name": "Mizuki-Akiyama",
+      "path": "Mizuki-Akiyama",
+      "dark": {
+        "mPrimary": "#e6a6c8",
+        "mOnPrimary": "#2b1422",
+        "mSecondary": "#afa2d8",
+        "mOnSecondary": "#1d1830",
+        "mTertiary": "#7fb6d6",
+        "mOnTertiary": "#071f2d",
+        "mError": "#f08a9b",
+        "mOnError": "#2d0b14",
+        "mSurface": "#10111b",
+        "mOnSurface": "#eee7f0",
+        "mSurfaceVariant": "#1d1a2a",
+        "mOnSurfaceVariant": "#c8b9ca",
+        "mOutline": "#4d465c",
+        "mShadow": "#05060a",
+        "mHover": "#3b304e",
+        "mOnHover": "#f6eaf3"
+      },
+      "light": {
+        "mPrimary": "#b72f78",
+        "mOnPrimary": "#ffffff",
+        "mSecondary": "#6f4bbb",
+        "mOnSecondary": "#ffffff",
+        "mTertiary": "#006a90",
+        "mOnTertiary": "#ffffff",
+        "mError": "#ba1a1a",
+        "mOnError": "#ffffff",
+        "mSurface": "#fff7fb",
+        "mOnSurface": "#21101c",
+        "mSurfaceVariant": "#f4ddea",
+        "mOnSurfaceVariant": "#6c5363",
+        "mOutline": "#d6b9cb",
+        "mShadow": "#f6cfe2",
+        "mHover": "#ffd1e8",
+        "mOnHover": "#4d1232"
+      }
+    },
+    {
       "name": "Monochrome",
       "path": "Monochrome",
       "dark": {
