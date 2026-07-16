@@ -46,11 +46,11 @@
     }
   },
   "light": {
-    "mPrimary": "#b48ead",
+    "mPrimary": "#d08770",
     "mOnPrimary": "#eceff4",
-    "mSecondary": "#a3be8c",
+    "mSecondary": "#b48ead",
     "mOnSecondary": "#eceff4",
-    "mTertiary": "#d08770",
+    "mTertiary": "#a3be8c",
     "mOnTertiary": "#eceff4",
     "mError": "#bf616a",
     "mOnError": "#eceff4",
